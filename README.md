@@ -1,2 +1,3 @@
 # Moje pierwsze rozpozytorium
-|Sime|siem|
+Nauczyłem się synchronizować VSCode z Githubem
+Lączyć zmiany z obu stron
