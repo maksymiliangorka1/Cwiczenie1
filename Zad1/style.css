@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.ramka{
+    width: 400px;
+    height: 700px;
+    border-style: solid;
+    border-color: black;
+}
